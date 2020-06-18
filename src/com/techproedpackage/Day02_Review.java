@@ -68,7 +68,7 @@ public class Day02_Review {
             System.out.println("ACTUAL AMAZON URL : " +actualAmazonURL);
         }
         driver.quit();
-
+System.out.println("cevdet hoca tesekkur ederim");
     }
 
 }
